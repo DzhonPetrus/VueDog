@@ -3,7 +3,7 @@ a web app that fetches pictures, videos and facts about dogs.
 
 **[DEMO](https://compassionate-wiles-a73879.netlify.app/)**
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/ca99df95-c1a9-4a7f-a7f0-6cd7d3119e97/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca99df95-c1a9-4a7f-a7f0-6cd7d3119e97/deploy-status)](https://app.netlify.com/sites/compassionate-wiles-a73879/deploys)
 
 Tech Stack:
 - [Vue 3](https://vuejs.org/)
